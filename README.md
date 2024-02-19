@@ -88,5 +88,7 @@ J'ai retenu le modèle de la forêt aléatoire qui présentait les meilleurs ré
 Accuracy sur l'ensemble de test : 0.62107
 
 
+## Lien de l'api
 
+https://adb-1763407563236670.10.azuredatabricks.net/serving-endpoints/exam_sd3/invocations
 
